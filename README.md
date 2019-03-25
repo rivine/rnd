@@ -28,7 +28,7 @@ go run prototypes/tfchain-block-explorer/main.go
 
 Screenshot:
 
-![screenshot of TFChain Block Explorer prototype][/assets/screenshots/tfchain-block-explorer.png]
+![screenshot of TFChain Block Explorer prototype](/assets/screenshots/tfchain-block-explorer.png)
 
 Prototype isn't super advanced in features, but does show that it is really simple to build a Pure Go GUI App.
 More discipline, in architecture, is required for a more serious App though.
