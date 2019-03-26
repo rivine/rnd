@@ -34,3 +34,9 @@ Prototype isn't super advanced in features, but does show that it is really simp
 More discipline, in architecture, is required for a more serious App though.
 
 Fyne showcases a lot more examples on how to do stuff at <https://github.com/fyne-io/examples/>.
+
+## Experiments
+
+### Rust
+
+You can find some documents under [/experiments/rust](/experiments/rust) that describe the Rust-focussed experiments that have taken place.
